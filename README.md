@@ -1,1 +1,1 @@
-# tech-creators-
+FitBuddy – AI-Powered Fitness & Nutrition Plan Generator
